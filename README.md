@@ -1,3 +1,5 @@
+<img src="https://github.com/hluna23/FlappyBird/assets/114502390/347f2a16-910e-41bc-8cae-96af3ee14403"/>
+
 # FlappyBird - Jogo em Python com Pygame 👾👾👾
 
 ## Descrição do Jogo 📝🎮
